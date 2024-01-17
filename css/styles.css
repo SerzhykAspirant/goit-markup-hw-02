@@ -100,6 +100,18 @@ color: #404BBF;
 .page-team{
     background: #F4F4FD;
 }
+.page-team-title {
+    color: #2E2F42;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+}
+.page-team-list-item{
+    background-color: #FFFFFF;
+}
 .page-team-list-item-title{
     color: #2E2F42;
     font-size: 20px;
